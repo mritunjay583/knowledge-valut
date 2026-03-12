@@ -1,2 +1,7 @@
 .obsidian
 copilot
+docs/_site
+docs/.jekyll-cache
+docs/.jekyll-metadata
+.bundle
+vendor
