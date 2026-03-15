@@ -1,3 +1,10 @@
+---
+title: "Bloom Filters"
+layout: default
+parent: Important Concepts
+nav_order: 1
+---
+
 # Bloom Filters — Complete Guide for High-Scale Systems
 
 ## Why Do Bloom Filters Exist?
