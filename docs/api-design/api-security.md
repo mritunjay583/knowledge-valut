@@ -5,7 +5,7 @@ parent: API Design
 nav_order: 7
 ---
 
-# API Security
+# API Security Considerations — Deep Dive
 
 > A comprehensive guide to securing APIs — common attacks, defense strategies, OWASP API risks, HTTPS, input validation, and production security patterns. Written for system design interviews and building production-grade systems.
 

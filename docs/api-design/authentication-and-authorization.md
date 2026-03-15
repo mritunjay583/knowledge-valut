@@ -5,7 +5,7 @@ parent: API Design
 nav_order: 5
 ---
 
-# Auth & Authorization
+# Authentication & Authorization — Deep Dive
 
 > A comprehensive guide to authn vs authz, JWT, OAuth 2.0, API keys, session management, RBAC, and production patterns. Written for system design interviews and building secure, scalable systems.
 

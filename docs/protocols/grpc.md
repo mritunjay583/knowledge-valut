@@ -5,7 +5,7 @@ parent: Protocols
 nav_order: 2
 ---
 
-# gRPC
+# gRPC — Deep Dive
 
 > A comprehensive guide to gRPC — why it exists, what problems it solves, how it compares to HTTP/REST, architecture internals, and real-world production use cases. Written for system design interviews and engineering decisions.
 

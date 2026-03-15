@@ -5,7 +5,7 @@ parent: Protocols
 nav_order: 4
 ---
 
-# WebRTC
+# WebRTC — Deep Dive
 
 > A comprehensive guide to WebRTC — why it exists, what problems it solves, how it compares to HTTP, gRPC, and WebSockets, architecture internals, and real-world production use cases. Written for system design interviews and engineering decisions.
 

@@ -5,7 +5,7 @@ parent: Protocols
 nav_order: 1
 ---
 
-# HTTP Protocol
+# HTTP Protocol — Deep Dive
 
 > A comprehensive guide to HTTP — from fundamentals to optimization strategies. Written for system design interviews and real-world engineering decisions.
 

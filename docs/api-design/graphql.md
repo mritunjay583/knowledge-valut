@@ -5,7 +5,7 @@ parent: API Design
 nav_order: 2
 ---
 
-# GraphQL
+# GraphQL — Deep Dive
 
 > A comprehensive guide to GraphQL — why it exists, schema design, resolvers, the N+1 problem, tradeoffs vs REST, and real-world production patterns. Written for system design interviews and engineering decisions.
 

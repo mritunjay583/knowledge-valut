@@ -5,7 +5,7 @@ parent: Protocols
 nav_order: 3
 ---
 
-# WebSockets
+# WebSockets — Deep Dive
 
 > A comprehensive guide to WebSockets — why they exist, what problems they solve, how they compare to HTTP and gRPC, architecture internals, and real-world production use cases. Written for system design interviews and engineering decisions.
 

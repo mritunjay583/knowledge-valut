@@ -5,7 +5,7 @@ parent: API Design
 nav_order: 3
 ---
 
-# RPC
+# RPC (Remote Procedure Call) — Deep Dive
 
 > A comprehensive guide to RPC — the paradigm, gRPC, Protocol Buffers, tradeoffs vs REST and GraphQL, and when to use it. Written for system design interviews and building high-performance distributed systems.
 

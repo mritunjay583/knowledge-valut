@@ -5,7 +5,7 @@ parent: API Design
 nav_order: 6
 ---
 
-# Rate Limiting
+# Rate Limiting — Deep Dive
 
 > A comprehensive guide to rate limiting — algorithms, implementation strategies, distributed rate limiting, and production patterns. Written for system design interviews and building resilient, scalable APIs.
 

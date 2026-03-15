@@ -5,7 +5,7 @@ parent: API Design
 nav_order: 4
 ---
 
-# Common API Patterns
+# Common API Patterns — Deep Dive
 
 > Patterns that apply across REST, GraphQL, and RPC — pagination, filtering, sorting, versioning, idempotency, bulk operations, and more. These come up in every system design interview.
 

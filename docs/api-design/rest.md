@@ -5,7 +5,7 @@ parent: API Design
 nav_order: 1
 ---
 
-# REST
+# REST API Design — Deep Dive
 
 > A comprehensive guide to REST — principles, resource modeling, HTTP semantics, pagination, versioning, tradeoffs, and real-world production patterns. Written for system design interviews and building highly scalable systems.
 
