@@ -45,3 +45,4 @@ Deep-dive notes on protocols and API design for system design interviews and rea
 | Topic | What's Covered |
 |:------|:---------------|
 | [Bloom Filters](important-concepts/bloom-filters.md) | How they work, math, tuning, LSM trees, Cassandra/Bigtable usage, Cuckoo filters |
+| [Communication Stack](important-concepts/communication-stack.md) | API styles vs transport protocols vs frameworks — where REST, gRPC, WebSocket fit |
